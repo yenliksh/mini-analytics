@@ -1,0 +1,324 @@
+{
+  "customers": [
+    {
+      "id": "CUS-001",
+      "name": "Aigerim K.",
+      "email": "aigerim.k@example.com",
+      "city": "Алматы",
+      "ltv": 245000,
+      "ordersCount": 6
+    },
+    {
+      "id": "CUS-002",
+      "name": "Daulet T.",
+      "email": "daulet.t@example.com",
+      "city": "Астана",
+      "ltv": 183500,
+      "ordersCount": 4
+    },
+    {
+      "id": "CUS-003",
+      "name": "Saule M.",
+      "email": "saule.m@example.com",
+      "city": "Шымкент",
+      "ltv": 92000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-004",
+      "name": "Nurzhan A.",
+      "email": "nurzhan.a@example.com",
+      "city": "Караганда",
+      "ltv": 310000,
+      "ordersCount": 7
+    },
+    {
+      "id": "CUS-005",
+      "name": "Dana S.",
+      "email": "dana.s@example.com",
+      "city": "Алматы",
+      "ltv": 145000,
+      "ordersCount": 5
+    },
+    {
+      "id": "CUS-006",
+      "name": "Yerbol K.",
+      "email": "yerbol.k@example.com",
+      "city": "Атырау",
+      "ltv": 76000,
+      "ordersCount": 2
+    },
+    {
+      "id": "CUS-007",
+      "name": "Madina R.",
+      "email": "madina.r@example.com",
+      "city": "Павлодар",
+      "ltv": 198000,
+      "ordersCount": 4
+    },
+    {
+      "id": "CUS-008",
+      "name": "Dias Z.",
+      "email": "dias.z@example.com",
+      "city": "Костанай",
+      "ltv": 267000,
+      "ordersCount": 8
+    },
+    {
+      "id": "CUS-009",
+      "name": "Aruzhan N.",
+      "email": "aruzhan.n@example.com",
+      "city": "Алматы",
+      "ltv": 99000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-010",
+      "name": "Rustem B.",
+      "email": "rustem.b@example.com",
+      "city": "Астана",
+      "ltv": 156000,
+      "ordersCount": 5
+    },
+    {
+      "id": "CUS-011",
+      "name": "Zhanel T.",
+      "email": "zhanel.t@example.com",
+      "city": "Шымкент",
+      "ltv": 228000,
+      "ordersCount": 6
+    },
+    {
+      "id": "CUS-012",
+      "name": "Serik E.",
+      "email": "serik.e@example.com",
+      "city": "Караганда",
+      "ltv": 87000,
+      "ordersCount": 2
+    },
+    {
+      "id": "CUS-013",
+      "name": "Kamila U.",
+      "email": "kamila.u@example.com",
+      "city": "Алматы",
+      "ltv": 134000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-014",
+      "name": "Timur J.",
+      "email": "timur.j@example.com",
+      "city": "Астана",
+      "ltv": 255000,
+      "ordersCount": 7
+    },
+    {
+      "id": "CUS-015",
+      "name": "Ainur P.",
+      "email": "ainur.p@example.com",
+      "city": "Атырау",
+      "ltv": 94000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-016",
+      "name": "Bekzat L.",
+      "email": "bekzat.l@example.com",
+      "city": "Костанай",
+      "ltv": 202000,
+      "ordersCount": 4
+    },
+    {
+      "id": "CUS-017",
+      "name": "Karina O.",
+      "email": "karina.o@example.com",
+      "city": "Алматы",
+      "ltv": 314000,
+      "ordersCount": 9
+    },
+    {
+      "id": "CUS-018",
+      "name": "Samat K.",
+      "email": "samat.k@example.com",
+      "city": "Павлодар",
+      "ltv": 168000,
+      "ordersCount": 4
+    },
+    {
+      "id": "CUS-019",
+      "name": "Gulnara V.",
+      "email": "gulnara.v@example.com",
+      "city": "Шымкент",
+      "ltv": 119000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-020",
+      "name": "Adil T.",
+      "email": "adil.t@example.com",
+      "city": "Астана",
+      "ltv": 284000,
+      "ordersCount": 8
+    },
+    {
+      "id": "CUS-021",
+      "name": "Aliya Z.",
+      "email": "aliya.z@example.com",
+      "city": "Алматы",
+      "ltv": 77000,
+      "ordersCount": 2
+    },
+    {
+      "id": "CUS-022",
+      "name": "Marat Y.",
+      "email": "marat.y@example.com",
+      "city": "Караганда",
+      "ltv": 194000,
+      "ordersCount": 5
+    },
+    {
+      "id": "CUS-023",
+      "name": "Nazerke I.",
+      "email": "nazerke.i@example.com",
+      "city": "Шымкент",
+      "ltv": 125000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-024",
+      "name": "Azamat K.",
+      "email": "azamat.k@example.com",
+      "city": "Алматы",
+      "ltv": 239000,
+      "ordersCount": 6
+    },
+    {
+      "id": "CUS-025",
+      "name": "Aruzhan M.",
+      "email": "aruzhan.m@example.com",
+      "city": "Астана",
+      "ltv": 88000,
+      "ordersCount": 2
+    },
+    {
+      "id": "CUS-026",
+      "name": "Miras R.",
+      "email": "miras.r@example.com",
+      "city": "Костанай",
+      "ltv": 205000,
+      "ordersCount": 5
+    },
+    {
+      "id": "CUS-027",
+      "name": "Zhanna B.",
+      "email": "zhanna.b@example.com",
+      "city": "Атырау",
+      "ltv": 176000,
+      "ordersCount": 4
+    },
+    {
+      "id": "CUS-028",
+      "name": "Dias M.",
+      "email": "dias.m@example.com",
+      "city": "Алматы",
+      "ltv": 95000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-029",
+      "name": "Saltanat K.",
+      "email": "saltanat.k@example.com",
+      "city": "Астана",
+      "ltv": 315000,
+      "ordersCount": 9
+    },
+    {
+      "id": "CUS-030",
+      "name": "Nurlan A.",
+      "email": "nurlan.a@example.com",
+      "city": "Павлодар",
+      "ltv": 122000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-031",
+      "name": "Aisulu T.",
+      "email": "aisulu.t@example.com",
+      "city": "Шымкент",
+      "ltv": 189000,
+      "ordersCount": 4
+    },
+    {
+      "id": "CUS-032",
+      "name": "Yeldos N.",
+      "email": "yeldos.n@example.com",
+      "city": "Караганда",
+      "ltv": 255000,
+      "ordersCount": 7
+    },
+    {
+      "id": "CUS-033",
+      "name": "Asem J.",
+      "email": "asem.j@example.com",
+      "city": "Алматы",
+      "ltv": 83000,
+      "ordersCount": 2
+    },
+    {
+      "id": "CUS-034",
+      "name": "Bolat D.",
+      "email": "bolat.d@example.com",
+      "city": "Астана",
+      "ltv": 210000,
+      "ordersCount": 6
+    },
+    {
+      "id": "CUS-035",
+      "name": "Gaukhar P.",
+      "email": "gaukhar.p@example.com",
+      "city": "Алматы",
+      "ltv": 142000,
+      "ordersCount": 4
+    },
+    {
+      "id": "CUS-036",
+      "name": "Ramazan T.",
+      "email": "ramazan.t@example.com",
+      "city": "Атырау",
+      "ltv": 76000,
+      "ordersCount": 2
+    },
+    {
+      "id": "CUS-037",
+      "name": "Anel S.",
+      "email": "anel.s@example.com",
+      "city": "Костанай",
+      "ltv": 193000,
+      "ordersCount": 5
+    },
+    {
+      "id": "CUS-038",
+      "name": "Askar U.",
+      "email": "askar.u@example.com",
+      "city": "Алматы",
+      "ltv": 273000,
+      "ordersCount": 7
+    },
+    {
+      "id": "CUS-039",
+      "name": "Meruert V.",
+      "email": "meruert.v@example.com",
+      "city": "Шымкент",
+      "ltv": 87000,
+      "ordersCount": 3
+    },
+    {
+      "id": "CUS-040",
+      "name": "Kanat Y.",
+      "email": "kanat.y@example.com",
+      "city": "Астана",
+      "ltv": 220000,
+      "ordersCount": 6
+    }
+  ]
+}
